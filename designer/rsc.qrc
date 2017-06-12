@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>icons/logo.jpg</file>
+  </qresource>
+  <qresource prefix="red">
+    <file>icons/red.png</file>
+  </qresource>
+  <qresource prefix="blue">
+    <file>icons/blue.png</file>
+  </qresource>
+  <qresource prefix="green">
+    <file>icons/green.png</file>
+  </qresource>
+  <qresource prefix="yellow">
+    <file>icons/yellow.png</file>
+  </qresource>
+  <qresource prefix="gray">
+    <file>icons/gray.png</file>
+  </qresource>
+</RCC>
