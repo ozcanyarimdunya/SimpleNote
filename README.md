@@ -1,3 +1,7 @@
+### resources
+    https://pythonspot.com/en/pyqt5-window/
+
+
 ### mygui.py
 ------
     # -*- coding: utf-8 -*-
