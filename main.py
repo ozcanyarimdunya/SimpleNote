@@ -9,7 +9,7 @@ import resources
 
 class Form(QMainWindow, Ui_MainWindow):
     def __init__(self):
-        QMainWindow.__init__(self)
+        super(QMainWindow,self).__init__(self)
         self.setupUi(self)
 
         self.logo = QIcon(':logo/icons/logo.jpg')
